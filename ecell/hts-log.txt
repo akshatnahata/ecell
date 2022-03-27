@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Sun, 27 Mar 2022 22:08:32 at https://themesdesign.in/zoric-react/layout/index-1.html#home
+(winhttrack https://themesdesign.in/zoric-react/layout/index-1.html#home -O "/Users/akshatnahata/websites/ecell" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:09:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+22:09:15	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link primary/home (from primary/primary)
+22:09:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home (from primary/primary)
+22:09:23	Warning: 	File not parsed, looks like binary: https://themesdesign.in/zoric-react/layout/fonts/materialdesignicons-webfont.woff2?v=5.9.55
+22:09:23	Error: 	"Not Found" (404) at link https://themesdesign.in/zoric-react/layout/images/bg-1.jpg (from https://themesdesign.in/zoric-react/layout/css/style.min.css)
+22:09:23	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 53 links scanned, 47 files written (7668702 bytes overall) [7099388 bytes received at 139203 bytes/sec], 717076 bytes transferred using HTTP compression in 10 files, ratio 18%, 12.2 requests per connection
+(3 errors, 3 warnings, 0 messages)
